@@ -1,7 +1,7 @@
-# Municipal Financial Document Archival System
+#  Financial Document Archival System
 
 ## Overview
-A web-based document archival and metadata indexing system built with Python and Flask. Designed for municipal finance workflows, it provides a simple interface for non-technical users to upload financial records while automating file normalization, category directory organization, and structured audit logging.
+A web-based document archival and metadata indexing system built with Python and Flask. Designed for finance workflows, it provides a simple interface for non-technical users to upload financial records while automating file normalization, category directory organization, and structured audit logging.
 
 ## Features
 * **User-Friendly Portal:** Minimal web interface built for quick file upload across accounting categories (Invoices, Receipts, Bank Statements, Tax Records).
